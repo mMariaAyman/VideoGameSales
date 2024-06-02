@@ -1,0 +1,3474 @@
+[{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b59b"
+  },
+  "Publisher": "Nintendo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b59c"
+  },
+  "Publisher": "Microsoft Game Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b59d"
+  },
+  "Publisher": "Take-Two Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b59e"
+  },
+  "Publisher": "Sony Computer Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b59f"
+  },
+  "Publisher": "Activision"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a0"
+  },
+  "Publisher": "Ubisoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a1"
+  },
+  "Publisher": "Bethesda Softworks"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a2"
+  },
+  "Publisher": "Electronic Arts"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a3"
+  },
+  "Publisher": "Sega"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a4"
+  },
+  "Publisher": "SquareSoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a5"
+  },
+  "Publisher": "Atari"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a6"
+  },
+  "Publisher": "505 Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a7"
+  },
+  "Publisher": "Capcom"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a8"
+  },
+  "Publisher": "GT Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5a9"
+  },
+  "Publisher": "Konami Digital Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5aa"
+  },
+  "Publisher": "Sony Computer Entertainment Europe"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ab"
+  },
+  "Publisher": "Square Enix"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ac"
+  },
+  "Publisher": "LucasArts"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ad"
+  },
+  "Publisher": "Virgin Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ae"
+  },
+  "Publisher": "Warner Bros. Interactive Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5af"
+  },
+  "Publisher": "Universal Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b0"
+  },
+  "Publisher": "Eidos Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b1"
+  },
+  "Publisher": "RedOctane"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b2"
+  },
+  "Publisher": "Vivendi Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b3"
+  },
+  "Publisher": "Enix Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b4"
+  },
+  "Publisher": "Namco Bandai Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b5"
+  },
+  "Publisher": "Palcom"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b6"
+  },
+  "Publisher": "Hasbro Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b7"
+  },
+  "Publisher": "THQ"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b8"
+  },
+  "Publisher": "Fox Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5b9"
+  },
+  "Publisher": "Acclaim Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ba"
+  },
+  "Publisher": "MTV Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5bb"
+  },
+  "Publisher": "Disney Interactive Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5bc"
+  },
+  "Publisher": "N/A"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5bd"
+  },
+  "Publisher": "Majesco Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5be"
+  },
+  "Publisher": "Codemasters"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5bf"
+  },
+  "Publisher": "Red Orb"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c0"
+  },
+  "Publisher": "Level 5"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c1"
+  },
+  "Publisher": "Arena Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c2"
+  },
+  "Publisher": "Midway Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c3"
+  },
+  "Publisher": "JVC"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c4"
+  },
+  "Publisher": "Deep Silver"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c5"
+  },
+  "Publisher": "989 Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c6"
+  },
+  "Publisher": "NCSoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c7"
+  },
+  "Publisher": "UEP Systems"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c8"
+  },
+  "Publisher": "Parker Bros."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5c9"
+  },
+  "Publisher": "Maxis"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ca"
+  },
+  "Publisher": "Imagic"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5cb"
+  },
+  "Publisher": "Tecmo Koei"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5cc"
+  },
+  "Publisher": "Valve Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5cd"
+  },
+  "Publisher": "ASCII Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ce"
+  },
+  "Publisher": "Mindscape"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5cf"
+  },
+  "Publisher": "Infogrames"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d0"
+  },
+  "Publisher": "Unknown"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d1"
+  },
+  "Publisher": "Square"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d2"
+  },
+  "Publisher": "Valve"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d3"
+  },
+  "Publisher": "Activision Value"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d4"
+  },
+  "Publisher": "Banpresto"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d5"
+  },
+  "Publisher": "D3Publisher"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d6"
+  },
+  "Publisher": "Oxygen Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d7"
+  },
+  "Publisher": "Red Storm Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d8"
+  },
+  "Publisher": "Video System"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5d9"
+  },
+  "Publisher": "Hello Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5da"
+  },
+  "Publisher": "Global Star"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5db"
+  },
+  "Publisher": "Gotham Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5dc"
+  },
+  "Publisher": "Westwood Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5dd"
+  },
+  "Publisher": "GungHo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5de"
+  },
+  "Publisher": "Crave Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5df"
+  },
+  "Publisher": "Hudson Soft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e0"
+  },
+  "Publisher": "Coleco"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e1"
+  },
+  "Publisher": "Rising Star Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e2"
+  },
+  "Publisher": "Atlus"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e3"
+  },
+  "Publisher": "TDK Mediactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e4"
+  },
+  "Publisher": "ASC Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e5"
+  },
+  "Publisher": "Zoo Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e6"
+  },
+  "Publisher": "Accolade"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e7"
+  },
+  "Publisher": "Sony Online Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e8"
+  },
+  "Publisher": "3DO"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5e9"
+  },
+  "Publisher": "RTL"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ea"
+  },
+  "Publisher": "Natsume"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5eb"
+  },
+  "Publisher": "Focus Home Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ec"
+  },
+  "Publisher": "Alchemist"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ed"
+  },
+  "Publisher": "Black Label Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ee"
+  },
+  "Publisher": "SouthPeak Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ef"
+  },
+  "Publisher": "Mastertronic"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f0"
+  },
+  "Publisher": "Ocean"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f1"
+  },
+  "Publisher": "Zoo Digital Publishing"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f2"
+  },
+  "Publisher": "Psygnosis"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f3"
+  },
+  "Publisher": "City Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f4"
+  },
+  "Publisher": "Empire Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f5"
+  },
+  "Publisher": "Success"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f6"
+  },
+  "Publisher": "Compile"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f7"
+  },
+  "Publisher": "Russel"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f8"
+  },
+  "Publisher": "Taito"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5f9"
+  },
+  "Publisher": "Agetec"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5fa"
+  },
+  "Publisher": "GSP"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5fb"
+  },
+  "Publisher": "Microprose"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5fc"
+  },
+  "Publisher": "Play It"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5fd"
+  },
+  "Publisher": "Slightly Mad Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5fe"
+  },
+  "Publisher": "Tomy Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b5ff"
+  },
+  "Publisher": "Sammy Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b600"
+  },
+  "Publisher": "Koch Media"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b601"
+  },
+  "Publisher": "Game Factory"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b602"
+  },
+  "Publisher": "Titus"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b603"
+  },
+  "Publisher": "Marvelous Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b604"
+  },
+  "Publisher": "Genki"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b605"
+  },
+  "Publisher": "Mojang"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b606"
+  },
+  "Publisher": "Pinnacle"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b607"
+  },
+  "Publisher": "CTO SpA"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b608"
+  },
+  "Publisher": "TalonSoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b609"
+  },
+  "Publisher": "Crystal Dynamics"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b60a"
+  },
+  "Publisher": "SCi"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b60b"
+  },
+  "Publisher": "Quelle"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b60c"
+  },
+  "Publisher": "mixi, Inc"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b60d"
+  },
+  "Publisher": "Rage Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b60e"
+  },
+  "Publisher": "Ubisoft Annecy"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b60f"
+  },
+  "Publisher": "Scholastic Inc."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b610"
+  },
+  "Publisher": "Interplay"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b611"
+  },
+  "Publisher": "Mystique"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b612"
+  },
+  "Publisher": "ChunSoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b613"
+  },
+  "Publisher": "Square EA"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b614"
+  },
+  "Publisher": "20th Century Fox Video Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b615"
+  },
+  "Publisher": "Avanquest Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b616"
+  },
+  "Publisher": "Hudson Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b617"
+  },
+  "Publisher": "Nordic Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b618"
+  },
+  "Publisher": "Men-A-Vision"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b619"
+  },
+  "Publisher": "Nobilis"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b61a"
+  },
+  "Publisher": "Big Ben Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b61b"
+  },
+  "Publisher": "Touchstone"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b61c"
+  },
+  "Publisher": "Spike"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b61d"
+  },
+  "Publisher": "Jester Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b61e"
+  },
+  "Publisher": "Nippon Ichi Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b61f"
+  },
+  "Publisher": "LEGO Media"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b620"
+  },
+  "Publisher": "Quest"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b621"
+  },
+  "Publisher": "Illusion Softworks"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b622"
+  },
+  "Publisher": "Tigervision"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b623"
+  },
+  "Publisher": "Funbox Media"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b624"
+  },
+  "Publisher": "Rocket Company"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b625"
+  },
+  "Publisher": "Metro 3D"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b626"
+  },
+  "Publisher": "Mattel Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b627"
+  },
+  "Publisher": "IE Institute"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b628"
+  },
+  "Publisher": "Rondomedia"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b629"
+  },
+  "Publisher": "Sony Computer Entertainment America"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b62a"
+  },
+  "Publisher": "Universal Gamex"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b62b"
+  },
+  "Publisher": "Ghostlight"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b62c"
+  },
+  "Publisher": "Wizard Video Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b62d"
+  },
+  "Publisher": "BMG Interactive Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b62e"
+  },
+  "Publisher": "PQube"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b62f"
+  },
+  "Publisher": "Trion Worlds"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b630"
+  },
+  "Publisher": "Laguna"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b631"
+  },
+  "Publisher": "Ignition Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b632"
+  },
+  "Publisher": "Takara"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b633"
+  },
+  "Publisher": "Kadokawa Shoten"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b634"
+  },
+  "Publisher": "Destineer"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b635"
+  },
+  "Publisher": "Enterbrain"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b636"
+  },
+  "Publisher": "Xseed Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b637"
+  },
+  "Publisher": "Imagineer"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b638"
+  },
+  "Publisher": "System 3 Arcade Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b639"
+  },
+  "Publisher": "CPG Products"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b63a"
+  },
+  "Publisher": "Aruze Corp"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b63b"
+  },
+  "Publisher": "Gamebridge"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b63c"
+  },
+  "Publisher": "Midas Interactive Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b63d"
+  },
+  "Publisher": "Jaleco"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b63e"
+  },
+  "Publisher": "Answer Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b63f"
+  },
+  "Publisher": "XS Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b640"
+  },
+  "Publisher": "Activision Blizzard"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b641"
+  },
+  "Publisher": "Pack In Soft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b642"
+  },
+  "Publisher": "Rebellion"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b643"
+  },
+  "Publisher": "Xplosiv"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b644"
+  },
+  "Publisher": "Ultravision"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b645"
+  },
+  "Publisher": "GameMill Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b646"
+  },
+  "Publisher": "Wanadoo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b647"
+  },
+  "Publisher": "NovaLogic"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b648"
+  },
+  "Publisher": "Telltale Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b649"
+  },
+  "Publisher": "Epoch"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b64a"
+  },
+  "Publisher": "BAM! Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b64b"
+  },
+  "Publisher": "Knowledge Adventure"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b64c"
+  },
+  "Publisher": "Mastiff"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b64d"
+  },
+  "Publisher": "Tetris Online"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b64e"
+  },
+  "Publisher": "Harmonix Music Systems"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b64f"
+  },
+  "Publisher": "ESP"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b650"
+  },
+  "Publisher": "TYO"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b651"
+  },
+  "Publisher": "Telegames"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b652"
+  },
+  "Publisher": "Mud Duck Productions"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b653"
+  },
+  "Publisher": "Screenlife"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b654"
+  },
+  "Publisher": "Pioneer LDC"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b655"
+  },
+  "Publisher": "Magical Company"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b656"
+  },
+  "Publisher": "Mentor Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b657"
+  },
+  "Publisher": "Kemco"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b658"
+  },
+  "Publisher": "Human Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b659"
+  },
+  "Publisher": "Avanquest"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b65a"
+  },
+  "Publisher": "Data Age"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b65b"
+  },
+  "Publisher": "Electronic Arts Victor"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b65c"
+  },
+  "Publisher": "Black Bean Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b65d"
+  },
+  "Publisher": "Jack of All Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b65e"
+  },
+  "Publisher": "989 Sports"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b65f"
+  },
+  "Publisher": "Takara Tomy"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b660"
+  },
+  "Publisher": "Media Rings"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b661"
+  },
+  "Publisher": "Elf"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b662"
+  },
+  "Publisher": "Kalypso Media"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b663"
+  },
+  "Publisher": "Starfish"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b664"
+  },
+  "Publisher": "Zushi Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b665"
+  },
+  "Publisher": "Jorudan"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b666"
+  },
+  "Publisher": "Destination Software, Inc"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b667"
+  },
+  "Publisher": "New"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b668"
+  },
+  "Publisher": "Brash Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b669"
+  },
+  "Publisher": "ITT Family Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b66a"
+  },
+  "Publisher": "PopCap Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b66b"
+  },
+  "Publisher": "Home Entertainment Suppliers"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b66c"
+  },
+  "Publisher": "Ackkstudios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b66d"
+  },
+  "Publisher": "Starpath Corp."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b66e"
+  },
+  "Publisher": "P2 Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b66f"
+  },
+  "Publisher": "BPS"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b670"
+  },
+  "Publisher": "Gathering of Developers"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b671"
+  },
+  "Publisher": "NewKidCo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b672"
+  },
+  "Publisher": "Storm City Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b673"
+  },
+  "Publisher": "CokeM Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b674"
+  },
+  "Publisher": "CBS Electronics"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b675"
+  },
+  "Publisher": "Magix"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b676"
+  },
+  "Publisher": "Marvelous Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b677"
+  },
+  "Publisher": "Nihon Falcom Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b678"
+  },
+  "Publisher": "Wargaming.net"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b679"
+  },
+  "Publisher": "Angel Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b67a"
+  },
+  "Publisher": "Arc System Works"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b67b"
+  },
+  "Publisher": "Playmates"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b67c"
+  },
+  "Publisher": "SNK Playmore"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b67d"
+  },
+  "Publisher": "Hamster Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b67e"
+  },
+  "Publisher": "From Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b67f"
+  },
+  "Publisher": "Nippon Columbia"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b680"
+  },
+  "Publisher": "Nichibutsu"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b681"
+  },
+  "Publisher": "Little Orbit"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b682"
+  },
+  "Publisher": "Conspiracy Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b683"
+  },
+  "Publisher": "DTP Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b684"
+  },
+  "Publisher": "Hect"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b685"
+  },
+  "Publisher": "Mumbo Jumbo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b686"
+  },
+  "Publisher": "Pacific Century Cyber Works"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b687"
+  },
+  "Publisher": "Indie Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b688"
+  },
+  "Publisher": "Liquid Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b689"
+  },
+  "Publisher": "NEC"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b68a"
+  },
+  "Publisher": "Axela"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b68b"
+  },
+  "Publisher": "ArtDink"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b68c"
+  },
+  "Publisher": "Sunsoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b68d"
+  },
+  "Publisher": "Gust"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b68e"
+  },
+  "Publisher": "SNK"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b68f"
+  },
+  "Publisher": "NEC Interchannel"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b690"
+  },
+  "Publisher": "FuRyu"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b691"
+  },
+  "Publisher": "Xing Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b692"
+  },
+  "Publisher": "ValuSoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b693"
+  },
+  "Publisher": "Victor Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b694"
+  },
+  "Publisher": "Detn8 Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b695"
+  },
+  "Publisher": "American Softworks"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b696"
+  },
+  "Publisher": "Nordcurrent"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b697"
+  },
+  "Publisher": "Bomb"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b698"
+  },
+  "Publisher": "Falcom Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b699"
+  },
+  "Publisher": "AQ Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b69a"
+  },
+  "Publisher": "CCP"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b69b"
+  },
+  "Publisher": "Milestone S.r.l."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b69c"
+  },
+  "Publisher": "Sears"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b69d"
+  },
+  "Publisher": "JoWood Productions"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b69e"
+  },
+  "Publisher": "Seta Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b69f"
+  },
+  "Publisher": "On Demand"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a0"
+  },
+  "Publisher": "NCS"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a1"
+  },
+  "Publisher": "Aspyr"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a2"
+  },
+  "Publisher": "Gremlin Interactive Ltd"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a3"
+  },
+  "Publisher": "Agatsuma Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a4"
+  },
+  "Publisher": "Compile Heart"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a5"
+  },
+  "Publisher": "Culture Brain"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a6"
+  },
+  "Publisher": "Mad Catz"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a7"
+  },
+  "Publisher": "Shogakukan"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a8"
+  },
+  "Publisher": "Merscom LLC"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6a9"
+  },
+  "Publisher": "Rebellion Developments"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6aa"
+  },
+  "Publisher": "Nippon Telenet"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ab"
+  },
+  "Publisher": "TDK Core"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ac"
+  },
+  "Publisher": "bitComposer Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ad"
+  },
+  "Publisher": "Foreign Media Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ae"
+  },
+  "Publisher": "Astragon"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6af"
+  },
+  "Publisher": "SSI"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b0"
+  },
+  "Publisher": "Kadokawa Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b1"
+  },
+  "Publisher": "Idea Factory"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b2"
+  },
+  "Publisher": "Performance Designed Products"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b3"
+  },
+  "Publisher": "Asylum Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b4"
+  },
+  "Publisher": "Core Design Ltd."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b5"
+  },
+  "Publisher": "PlayV"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b6"
+  },
+  "Publisher": "UFO Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b7"
+  },
+  "Publisher": "Idea Factory International"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b8"
+  },
+  "Publisher": "Playlogic Game Factory"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6b9"
+  },
+  "Publisher": "Essential Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ba"
+  },
+  "Publisher": "Adeline Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6bb"
+  },
+  "Publisher": "Funcom"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6bc"
+  },
+  "Publisher": "Panther Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6bd"
+  },
+  "Publisher": "Blast! Entertainment Ltd"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6be"
+  },
+  "Publisher": "Game Life"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6bf"
+  },
+  "Publisher": "DSI Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c0"
+  },
+  "Publisher": "Avalon Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c1"
+  },
+  "Publisher": "Popcorn Arcade"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c2"
+  },
+  "Publisher": "Neko Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c3"
+  },
+  "Publisher": "Vir2L Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c4"
+  },
+  "Publisher": "Aques"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c5"
+  },
+  "Publisher": "Syscom"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c6"
+  },
+  "Publisher": "White Park Bay Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c7"
+  },
+  "Publisher": "System 3"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c8"
+  },
+  "Publisher": "Vatical Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6c9"
+  },
+  "Publisher": "Daedalic"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ca"
+  },
+  "Publisher": "EA Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6cb"
+  },
+  "Publisher": "Media Factory"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6cc"
+  },
+  "Publisher": "Vic Tokai"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6cd"
+  },
+  "Publisher": "The Adventure Company"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ce"
+  },
+  "Publisher": "Game Arts"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6cf"
+  },
+  "Publisher": "Broccoli"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d0"
+  },
+  "Publisher": "Acquire"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d1"
+  },
+  "Publisher": "General Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d2"
+  },
+  "Publisher": "Excalibur Publishing"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d3"
+  },
+  "Publisher": "Imadio"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d4"
+  },
+  "Publisher": "Swing! Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d5"
+  },
+  "Publisher": "Sony Music Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d6"
+  },
+  "Publisher": "Aqua Plus"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d7"
+  },
+  "Publisher": "Paradox Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d8"
+  },
+  "Publisher": "Hip Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6d9"
+  },
+  "Publisher": "DreamCatcher Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6da"
+  },
+  "Publisher": "Tripwire Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6db"
+  },
+  "Publisher": "Sting"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6dc"
+  },
+  "Publisher": "Yacht Club Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6dd"
+  },
+  "Publisher": "SCS Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6de"
+  },
+  "Publisher": "Bigben Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6df"
+  },
+  "Publisher": "Havas Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e0"
+  },
+  "Publisher": "Slitherine Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e1"
+  },
+  "Publisher": "Graffiti"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e2"
+  },
+  "Publisher": "Funsta"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e3"
+  },
+  "Publisher": "Telstar"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e4"
+  },
+  "Publisher": "U.S. Gold"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e5"
+  },
+  "Publisher": "DreamWorks Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e6"
+  },
+  "Publisher": "Data Design Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e7"
+  },
+  "Publisher": "MTO"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e8"
+  },
+  "Publisher": "DHM Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6e9"
+  },
+  "Publisher": "FunSoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ea"
+  },
+  "Publisher": "SPS"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6eb"
+  },
+  "Publisher": "Bohemia Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ec"
+  },
+  "Publisher": "Reef Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ed"
+  },
+  "Publisher": "Tru Blu Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ee"
+  },
+  "Publisher": "Moss"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ef"
+  },
+  "Publisher": "T&E Soft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f0"
+  },
+  "Publisher": "O-Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f1"
+  },
+  "Publisher": "Aksys Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f2"
+  },
+  "Publisher": "NDA Productions"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f3"
+  },
+  "Publisher": "Data East"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f4"
+  },
+  "Publisher": "Time Warner Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f5"
+  },
+  "Publisher": "Gainax Network Systems"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f6"
+  },
+  "Publisher": "Daito"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f7"
+  },
+  "Publisher": "O3 Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f8"
+  },
+  "Publisher": "Gameloft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6f9"
+  },
+  "Publisher": "Xicat Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6fa"
+  },
+  "Publisher": "Simon & Schuster Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6fb"
+  },
+  "Publisher": "Valcon Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6fc"
+  },
+  "Publisher": "PopTop Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6fd"
+  },
+  "Publisher": "TOHO"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6fe"
+  },
+  "Publisher": "HMH Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b6ff"
+  },
+  "Publisher": "5pb"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b700"
+  },
+  "Publisher": "Cave"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b701"
+  },
+  "Publisher": "CDV Software Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b702"
+  },
+  "Publisher": "Microids"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b703"
+  },
+  "Publisher": "PM Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b704"
+  },
+  "Publisher": "Paon"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b705"
+  },
+  "Publisher": "Micro Cabin"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b706"
+  },
+  "Publisher": "GameTek"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b707"
+  },
+  "Publisher": "Benesse"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b708"
+  },
+  "Publisher": "Type-Moon"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b709"
+  },
+  "Publisher": "Enjoy Gaming ltd."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b70a"
+  },
+  "Publisher": "Asmik Corp"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b70b"
+  },
+  "Publisher": "Interplay Productions"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b70c"
+  },
+  "Publisher": "Asmik Ace Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b70d"
+  },
+  "Publisher": "inXile Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b70e"
+  },
+  "Publisher": "Image Epoch"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b70f"
+  },
+  "Publisher": "Phantom EFX"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b710"
+  },
+  "Publisher": "Evolved Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b711"
+  },
+  "Publisher": "responDESIGN"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b712"
+  },
+  "Publisher": "Culture Publishers"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b713"
+  },
+  "Publisher": "Griffin International"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b714"
+  },
+  "Publisher": "Hackberry"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b715"
+  },
+  "Publisher": "Hearty Robin"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b716"
+  },
+  "Publisher": "Nippon Amuse"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b717"
+  },
+  "Publisher": "Origin Systems"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b718"
+  },
+  "Publisher": "Seventh Chord"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b719"
+  },
+  "Publisher": "Mitsui"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b71a"
+  },
+  "Publisher": "Milestone"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b71b"
+  },
+  "Publisher": "Abylight"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b71c"
+  },
+  "Publisher": "Flight-Plan"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b71d"
+  },
+  "Publisher": "Glams"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b71e"
+  },
+  "Publisher": "Locus"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b71f"
+  },
+  "Publisher": "Warp"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b720"
+  },
+  "Publisher": "Daedalic Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b721"
+  },
+  "Publisher": "Alternative Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b722"
+  },
+  "Publisher": "Myelin Media"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b723"
+  },
+  "Publisher": "Mercury Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b724"
+  },
+  "Publisher": "Irem Software Engineering"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b725"
+  },
+  "Publisher": "Sunrise Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b726"
+  },
+  "Publisher": "Elite"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b727"
+  },
+  "Publisher": "Evolution Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b728"
+  },
+  "Publisher": "Tivola"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b729"
+  },
+  "Publisher": "Global A Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b72a"
+  },
+  "Publisher": "Edia"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b72b"
+  },
+  "Publisher": "Athena"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b72c"
+  },
+  "Publisher": "Aria"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b72d"
+  },
+  "Publisher": "Gamecock"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b72e"
+  },
+  "Publisher": "Tommo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b72f"
+  },
+  "Publisher": "Altron"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b730"
+  },
+  "Publisher": "Happinet"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b731"
+  },
+  "Publisher": "iWin"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b732"
+  },
+  "Publisher": "Media Works"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b733"
+  },
+  "Publisher": "Fortyfive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b734"
+  },
+  "Publisher": "Revolution Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b735"
+  },
+  "Publisher": "Imax"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b736"
+  },
+  "Publisher": "Crimson Cow"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b737"
+  },
+  "Publisher": "10TACLE Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b738"
+  },
+  "Publisher": "Groove Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b739"
+  },
+  "Publisher": "Pack-In-Video"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b73a"
+  },
+  "Publisher": "Insomniac Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b73b"
+  },
+  "Publisher": "Ascaron Entertainment GmbH"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b73c"
+  },
+  "Publisher": "Asgard"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b73d"
+  },
+  "Publisher": "Ecole"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b73e"
+  },
+  "Publisher": "Yumedia"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b73f"
+  },
+  "Publisher": "Phenomedia"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b740"
+  },
+  "Publisher": "HAL Laboratory"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b741"
+  },
+  "Publisher": "Grand Prix Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b742"
+  },
+  "Publisher": "DigiCube"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b743"
+  },
+  "Publisher": "Creative Core"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b744"
+  },
+  "Publisher": "Kaga Create"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b745"
+  },
+  "Publisher": "WayForward Technologies"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b746"
+  },
+  "Publisher": "LSP Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b747"
+  },
+  "Publisher": "ASCII Media Works"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b748"
+  },
+  "Publisher": "Coconuts Japan"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b749"
+  },
+  "Publisher": "Arika"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b74a"
+  },
+  "Publisher": "Ertain"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b74b"
+  },
+  "Publisher": "Marvel Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b74c"
+  },
+  "Publisher": "Prototype"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b74d"
+  },
+  "Publisher": "TopWare Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b74e"
+  },
+  "Publisher": "Phantagram"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b74f"
+  },
+  "Publisher": "1C Company"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b750"
+  },
+  "Publisher": "The Learning Company"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b751"
+  },
+  "Publisher": "TechnoSoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b752"
+  },
+  "Publisher": "Vap"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b753"
+  },
+  "Publisher": "Misawa"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b754"
+  },
+  "Publisher": "Tradewest"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b755"
+  },
+  "Publisher": "Team17 Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b756"
+  },
+  "Publisher": "Yeti"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b757"
+  },
+  "Publisher": "Pow"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b758"
+  },
+  "Publisher": "Navarre Corp"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b759"
+  },
+  "Publisher": "MediaQuest"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b75a"
+  },
+  "Publisher": "Max Five"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b75b"
+  },
+  "Publisher": "Comfort"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b75c"
+  },
+  "Publisher": "Monte Christo Multimedia"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b75d"
+  },
+  "Publisher": "Pony Canyon"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b75e"
+  },
+  "Publisher": "Riverhillsoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b75f"
+  },
+  "Publisher": "Summitsoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b760"
+  },
+  "Publisher": "Milestone S.r.l"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b761"
+  },
+  "Publisher": "Playmore"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b762"
+  },
+  "Publisher": "MLB.com"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b763"
+  },
+  "Publisher": "Kool Kizz"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b764"
+  },
+  "Publisher": "Flashpoint Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b765"
+  },
+  "Publisher": "49Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b766"
+  },
+  "Publisher": "Legacy Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b767"
+  },
+  "Publisher": "Alawar Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b768"
+  },
+  "Publisher": "CyberFront"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b769"
+  },
+  "Publisher": "Cloud Imperium Games Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b76a"
+  },
+  "Publisher": "Societa"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b76b"
+  },
+  "Publisher": "Virtual Play Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b76c"
+  },
+  "Publisher": "Interchannel"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b76d"
+  },
+  "Publisher": "Sonnet"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b76e"
+  },
+  "Publisher": "Experience Inc."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b76f"
+  },
+  "Publisher": "Zenrin"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b770"
+  },
+  "Publisher": "Iceberg Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b771"
+  },
+  "Publisher": "Ivolgamus"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b772"
+  },
+  "Publisher": "2D Boy"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b773"
+  },
+  "Publisher": "MC2 Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b774"
+  },
+  "Publisher": "Kando Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b775"
+  },
+  "Publisher": "Just Flight"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b776"
+  },
+  "Publisher": "Office Create"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b777"
+  },
+  "Publisher": "Mamba Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b778"
+  },
+  "Publisher": "Fields"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b779"
+  },
+  "Publisher": "Princess Soft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b77a"
+  },
+  "Publisher": "Maximum Family Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b77b"
+  },
+  "Publisher": "Berkeley"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b77c"
+  },
+  "Publisher": "Fuji"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b77d"
+  },
+  "Publisher": "Dusenberry Martin Racing"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b77e"
+  },
+  "Publisher": "imageepoch Inc."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b77f"
+  },
+  "Publisher": "Big Fish Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b780"
+  },
+  "Publisher": "Her Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b781"
+  },
+  "Publisher": "Kamui"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b782"
+  },
+  "Publisher": "ASK"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b783"
+  },
+  "Publisher": "Headup Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b784"
+  },
+  "Publisher": "KSS"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b785"
+  },
+  "Publisher": "Cygames"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b786"
+  },
+  "Publisher": "KID"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b787"
+  },
+  "Publisher": "Quinrose"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b788"
+  },
+  "Publisher": "Sunflowers"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b789"
+  },
+  "Publisher": "dramatic create"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b78a"
+  },
+  "Publisher": "TGL"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b78b"
+  },
+  "Publisher": "Encore"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b78c"
+  },
+  "Publisher": "Extreme Entertainment Group"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b78d"
+  },
+  "Publisher": "Intergrow"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b78e"
+  },
+  "Publisher": "G.Rev"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b78f"
+  },
+  "Publisher": "Sweets"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b790"
+  },
+  "Publisher": "Kokopeli Digital Studios"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b791"
+  },
+  "Publisher": "Number None"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b792"
+  },
+  "Publisher": "Nexon"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b793"
+  },
+  "Publisher": "id Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b794"
+  },
+  "Publisher": "BushiRoad"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b795"
+  },
+  "Publisher": "Tryfirst"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b796"
+  },
+  "Publisher": "Strategy First"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b797"
+  },
+  "Publisher": "7G//AMES"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b798"
+  },
+  "Publisher": "GN Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b799"
+  },
+  "Publisher": "Yuke's"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b79a"
+  },
+  "Publisher": "Easy Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b79b"
+  },
+  "Publisher": "Licensed 4U"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b79c"
+  },
+  "Publisher": "FuRyu Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b79d"
+  },
+  "Publisher": "Lexicon Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b79e"
+  },
+  "Publisher": "Paon Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b79f"
+  },
+  "Publisher": "Kids Station"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a0"
+  },
+  "Publisher": "GOA"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a1"
+  },
+  "Publisher": "Graphsim Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a2"
+  },
+  "Publisher": "King Records"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a3"
+  },
+  "Publisher": "Introversion Software"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a4"
+  },
+  "Publisher": "Minato Station"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a5"
+  },
+  "Publisher": "Devolver Digital"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a6"
+  },
+  "Publisher": "Blue Byte"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a7"
+  },
+  "Publisher": "Gaga"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a8"
+  },
+  "Publisher": "Yamasa Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7a9"
+  },
+  "Publisher": "Plenty"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7aa"
+  },
+  "Publisher": "Views"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7ab"
+  },
+  "Publisher": "fonfun"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7ac"
+  },
+  "Publisher": "NetRevo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7ad"
+  },
+  "Publisher": "Codemasters Online"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7ae"
+  },
+  "Publisher": "Quintet"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7af"
+  },
+  "Publisher": "Phoenix Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b0"
+  },
+  "Publisher": "Dorart"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b1"
+  },
+  "Publisher": "Marvelous Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b2"
+  },
+  "Publisher": "Focus Multimedia"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b3"
+  },
+  "Publisher": "Imageworks"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b4"
+  },
+  "Publisher": "Karin Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b5"
+  },
+  "Publisher": "Aerosoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b6"
+  },
+  "Publisher": "Technos Japan Corporation"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b7"
+  },
+  "Publisher": "Gakken"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b8"
+  },
+  "Publisher": "Mirai Shounen"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7b9"
+  },
+  "Publisher": "Datam Polystar"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7ba"
+  },
+  "Publisher": "Saurus"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7bb"
+  },
+  "Publisher": "HuneX"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7bc"
+  },
+  "Publisher": "Revolution (Japan)"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7bd"
+  },
+  "Publisher": "Giza10"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7be"
+  },
+  "Publisher": "Visco"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7bf"
+  },
+  "Publisher": "Alvion"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c0"
+  },
+  "Publisher": "Mycom"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c1"
+  },
+  "Publisher": "Giga"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c2"
+  },
+  "Publisher": "Warashi"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c3"
+  },
+  "Publisher": "System Soft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c4"
+  },
+  "Publisher": "Sold Out"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c5"
+  },
+  "Publisher": "Lighthouse Interactive"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c6"
+  },
+  "Publisher": "Masque Publishing"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c7"
+  },
+  "Publisher": "RED Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c8"
+  },
+  "Publisher": "Michaelsoft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7c9"
+  },
+  "Publisher": "Media Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7ca"
+  },
+  "Publisher": "New World Computing"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7cb"
+  },
+  "Publisher": "Genterprise"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7cc"
+  },
+  "Publisher": "Interworks Unlimited, Inc."
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7cd"
+  },
+  "Publisher": "Boost On"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7ce"
+  },
+  "Publisher": "Stainless Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7cf"
+  },
+  "Publisher": "EON Digital Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d0"
+  },
+  "Publisher": "Epic Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d1"
+  },
+  "Publisher": "Naxat Soft"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d2"
+  },
+  "Publisher": "Ascaron Entertainment"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d3"
+  },
+  "Publisher": "Piacci"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d4"
+  },
+  "Publisher": "Nitroplus"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d5"
+  },
+  "Publisher": "Paradox Development"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d6"
+  },
+  "Publisher": "Otomate"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d7"
+  },
+  "Publisher": "Ongakukan"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d8"
+  },
+  "Publisher": "Commseed"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7d9"
+  },
+  "Publisher": "Inti Creates"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7da"
+  },
+  "Publisher": "Takuyo"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7db"
+  },
+  "Publisher": "Interchannel-Holon"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7dc"
+  },
+  "Publisher": "Rain Games"
+},
+{
+  "_id": {
+    "$oid": "66409f37be9ad3045f50b7dd"
+  },
+  "Publisher": "UIG Entertainment"
+}]
